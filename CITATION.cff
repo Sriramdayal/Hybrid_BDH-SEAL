@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: "SEAL-BDH: Hybrid Adaptive Learning Dynamics"
+message: "If you use this repository, please cite it as below."
+type: software
+authors:
+  - family-names: "Dayal"
+    given-names: "Sriram"
+abstract: >
+  SEAL-BDH explores a hybrid adaptive learning architecture that fuses
+  reinforcement-driven self-adaptation (SEAL) with biologically-inspired Hebbian
+  dynamics (BDH). The framework models self-evolving intelligence through
+  co-adaptive feedback between policy-level adaptation and structural plasticity.
+license: Apache-2.0
+version: "1.0"
+date-released: "2025-10-27"
+repository-code: "https://github.com/sriramdayal/seal-bdh"
+keywords:
+  - artificial intelligence
+  - reinforcement learning
+  - hebbian plasticity
+  - self-adaptive systems
+  - hybrid architectures
+  - neuro-symbolic AI
+references:
+  - type: article
+    title: "Self-Adapting Language Models via Reinforcement Learning (SEAL)"
+    authors:
+      - family-names: "Longpre"
+        given-names: "S."
+      - family-names: "Jiang"
+        given-names: "Z."
+      - family-names: "Sohl-Dickstein"
+        given-names: "J."
+    year: 2025
+    url: "https://arxiv.org/abs/2506.10943"
+  - type: article
+    title: "The Dragon Hatchling: The Missing Link between the Transformer and Models of the Brain (BDH)"
+    authors:
+      - family-names: "Blundell"
+        given-names: "C."
+    year: 2025
+    url: "https://arxiv.org/abs/2509.26507"

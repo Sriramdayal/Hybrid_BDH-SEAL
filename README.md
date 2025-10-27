@@ -159,7 +159,29 @@ Version 1.0. Available at: https://github.com/Sriramdayal/SEAL-BDH
 **Sriram Dayal**
 AI Research & Systems Engineering
 📧 [sriramdayal279@gmail.com](mailto:sriramdayal279@gmail.com)
-🌐 GitHub: [@<yourusername>](https://github.com/<yourusername>)
+
+---
+
+## ⚠️ Kind Note
+
+> This simulation was developed and tested using the **free-tier Google Colab** environment.
+> Due to computational constraints, some long-running experiments (particularly the *comparing architectures* analysis) may **terminate prematurely or crash** in limited-memory environments.
+
+To reproduce complete results:
+
+* Use a **local setup** with a capable GPU (≥8 GB VRAM recommended), **or**
+* Upgrade to **Colab Pro / Pro+**, **or**
+* Modify parameters (e.g., neuron count, batch size, iteration depth) for lightweight testing.
+
+If you encounter issues or optimize the simulation for new hardware, please consider opening an **Issue** or submitting a **Pull Request (PR)** — your contributions are greatly appreciated 💡
+
+**Next Release:**
+The upcoming version will include complete comparative studies between hybrid and standalone architectures.
+
+> Thank you for exploring SEAL-BDH and contributing to its evolution! 🧠✨
+
+---
+
 
 ---
 

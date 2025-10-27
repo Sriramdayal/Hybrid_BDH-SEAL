@@ -149,7 +149,7 @@ If you reference this project in publications, presentations, or derivative rese
 Sriram Dayal (2025).
 SEAL–BDH Hybrid Architecture Simulation:
 Synergistic Emergent Adaptive Learning Framework.
-Version 1.0. Available at: https://github.com/<yourusername>/SEAL-BDH
+Version 1.0. Available at: https://github.com/Sriramdayal/SEAL-BDH
 ```
 
 ---

@@ -1,4 +1,4 @@
-# Hybrid_BDH-SEAL
+
 **SEAL-BDH Hybrid Architecture Simulation** — fully aligned with the **Apache License 2.0**, research intent, and upcoming public release.
 
 ---

@@ -65,6 +65,29 @@ This project models the *synergy between reinforcement-driven adaptation (SEAL)*
   * Adaptive learning rate (η)
   * Graph modularity and sparsity
   * Reward evolution and stability
+---
+
+
+## 🧩 Model Architecture
+
+The **SEAL-BDH Hybrid Architecture** integrates two synergistic systems — a **Self-Adapting Reinforcement Module (SEAL)** and a **Biological Dynamics Graph (BDH)** — connected through a co-adaptive control loop.
+
+> This design models how *adaptive self-edit generation* and *Hebbian plasticity* can interact to produce emergent self-improvement in artificial systems.
+
+| Component                  | Role                                                                            | Key Mechanism                                |
+| -------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------- |
+| **SEAL Core (Outer Loop)** | Generates self-edits and optimizes internal policies via reinforcement signals. | Reinforcement-guided self-improvement        |
+| **BDH Graph (Inner Loop)** | Simulates neuron-level plasticity and structural adaptation.                    | Hebbian learning and modular graph evolution |
+| **Synergy Interface**      | Couples SEAL’s reward gradients with BDH’s synaptic update signals.             | Dynamic learning rate modulation             |
+| **Adaptive Scheduler**     | Balances stability and exploration.                                             | Self-tuning based on performance feedback    |
+
+---
+
+### 🧠 Architecture Diagram
+
+![SEAL-BDH Architecture Diagram](seal_bdh_architecture.png)
+
+> *Fig. — High-level schematic showing the bidirectional interaction between SEAL’s policy adaptation loop and BDH’s Hebbian neural graph. The hybrid feedback stabilizes learning while enhancing creative self-edit generation.*
 
 ---
 
@@ -88,7 +111,7 @@ This project models the *synergy between reinforcement-driven adaptation (SEAL)*
 *<img width="1515" height="1126" alt="image" src="https://github.com/user-attachments/assets/e1619028-4c2b-4bba-9c89-a5a7486ea681" />
 
 
-> **Figure:** Evolution of SEAL performance, BDH modularity, synergy coefficient, and adaptive learning rate over 60 iterations.
+> **Figures:** Evolution of SEAL performance, BDH modularity, synergy coefficient, and adaptive learning rate over 60 iterations.
 > The hybrid system displays self-regulated equilibrium and emergent stability.
 
 ---

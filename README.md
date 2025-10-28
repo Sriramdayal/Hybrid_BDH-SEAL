@@ -45,9 +45,15 @@ This project models the *synergy between reinforcement-driven adaptation (SEAL)*
 * SEAL’s reinforcement signal modulates BDH’s synaptic updates.
 * BDH’s structural dynamics reshape SEAL’s edit quality through a **synergy factor (ϕ)**.
 * The hybrid learning rate evolves as:
-  [
-  \eta_{hybrid} = \eta_0 \times (1 + \alpha \cdot \phi)
-  ]
+  ηhybrid​=η0​×(1+α⋅ϕ)
+  
+ηhybrid → the effective adaptive learning rate
+
+𝜂0→ the base learning rate
+
+𝛼→ synergy scaling coefficient
+
+𝜙→ synergy factor, derived from
 * This coupling stabilizes the learning process while promoting emergent efficiency.
 
 ---

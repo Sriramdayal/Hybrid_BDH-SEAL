@@ -14,7 +14,7 @@
 
 ## 🌍 Overview
 
-**SEAL–BDH** (Self–Evolving Adaptive Learning × Bio–Dynamic Hatchling) is a hybrid simulation exploring how **adaptive self-improvement** and **biologically inspired neural dynamics** can coexist within one unified system.
+**SEAL–BDH** (Self–Evolving Adaptive Learning × Bio–inspired Dragon Hatchling) is a hybrid simulation exploring how **adaptive self-improvement** and **biologically inspired neural dynamics** can coexist within one unified system.
 
 This project models the *synergy between reinforcement-driven adaptation (SEAL)* and *graph-based Hebbian emergence (BDH)* — showing how such interaction can lead to stable, self-regulating, and efficient learning.
 

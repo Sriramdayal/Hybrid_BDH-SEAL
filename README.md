@@ -31,7 +31,7 @@ This project models the *synergy between reinforcement-driven adaptation (SEAL)*
 * Learns from reward deltas (ΔR) between iterations.
 * Implements **inner-loop** (self-edit refinement) and **outer-loop** (policy update).
 
-### **BDH: Baby Dragon Hatchling Graph**
+### **BDH: Biologically-inspired Dragon Hatchling Graph**
 
 * 32,768 neurons connected via dynamic synaptic edges.
 * Follows **Hebbian plasticity**:

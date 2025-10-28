@@ -202,7 +202,7 @@ To reproduce complete results:
 * Upgrade to **Colab Pro / Pro+**, **or**
 * Modify parameters (e.g., neuron count, batch size, iteration depth) for lightweight testing.
 
-If you encounter issues or optimize the simulation or try to build new better architecture, please consider opening an **Issue** or submitting a **Pull Request (PR)** — your contributions are greatly appreciated 💡
+If you encounter issues optimize the simulation or try to build new better architecture, please consider opening an **Issue** or submitting a **Pull Request (PR)** — your contributions are greatly appreciated 💡
 
 **Next Release:**
 The upcoming version will include complete comparative studies between hybrid and standalone architectures.

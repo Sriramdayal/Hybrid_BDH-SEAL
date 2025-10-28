@@ -133,14 +133,6 @@ This experiment demonstrates that **hybrid self-adaptive systems** can evolve **
 
 ---
 
-## 🧭 Future Directions
-
-* Integration with **real-world datasets** (e.g., text, multimodal sensors).
-* **Ablation studies** isolating synergy and Hebbian effects.
-* Dynamic graph **rewiring and pruning** for evolving topologies.
-* Multi-agent hybridization for **distributed self-improvement**.
-* Theoretical formulation linking **entropy, modularity, and learning efficiency**.
-
 ---
 
 📚 References & Conceptual Basis

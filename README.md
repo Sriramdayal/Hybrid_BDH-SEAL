@@ -133,9 +133,7 @@ This experiment demonstrates that **hybrid self-adaptive systems** can evolve **
 
 ---
 
----
-
-📚 References & Conceptual Basis
+## 📚 REFERENCES
 
 Self-Adapting Language Models via Reinforcement Learning (SEAL)
 Longpre, S., Jiang, Z., Sorensen, T., Sohl-Dickstein, J., et al. (2025).

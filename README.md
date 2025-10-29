@@ -53,7 +53,7 @@ This project models the *synergy between reinforcement-driven adaptation (SEAL)*
 
 𝛼→ synergy scaling coefficient
 
-𝜙→ synergy factor, derived from
+𝜙→ synergy factor
 * This coupling stabilizes the learning process while promoting emergent efficiency.
 
 ---

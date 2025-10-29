@@ -5,7 +5,7 @@
 
 # 🧬 SEAL–BDH Hybrid Architecture: Synergistic Emergent Adaptive Learning
 
-**Version:** 1.0
+**Version:** alphaV1.sim1.0
 **License:** [Apache License 2.0](./LICENSE)
 **Author:** [Sriram Dayal](mailto:sriramdayal279@gmail.com)
 **Project Type:** Research Simulation – Adaptive AI Framework Prototype

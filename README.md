@@ -133,44 +133,49 @@ This experiment demonstrates that **hybrid self-adaptive systems** can evolve **
 
 ---
 
-## 📚 REFERENCES
+## 📚 References
 
-Self-Adapting Language Models via Reinforcement Learning (SEAL)
-Longpre, S., Jiang, Z., Sorensen, T., Sohl-Dickstein, J., et al. (2025).
-arXiv preprint arXiv:2506.10943
+**[1] Self-Adapting Language Models**
+Adam Zweiger*, Jyothish Pari*, Han Guo, Ekin Akyürek, Yoon Kim, 
+Pulkit Agrawal
+*Massachusetts Institute of Technology*
+arXiv:2506.10943v2 [cs.LG], September 2025
+https://arxiv.org/abs/2506.10943
 
-Introduces reinforcement-driven self-adaptation mechanisms that dynamically tune model behavior through internal feedback loops — inspiring the adaptive component of SEAL-BDH.
+**[2] The Dragon Hatchling: The Missing Link Between the Transformer 
+and Models of the Brain**
+Adrian Kosowski*, Przemysław Uznański*, Jan Chorowski, 
+Zuzanna Stamirowska, Michał Bartoszkiewicz
+*Pathway, Palo Alto, USA*
+arXiv:2509.26507v1 [cs.NE], September 2025
+https://arxiv.org/abs/2509.26507
 
-The Dragon Hatchling: The Missing Link between the Transformer and Models of the Brain (BDH)
-Blundell, C., et al. (2025).
-arXiv preprint arXiv:2509.26507
-
-Explores emergent neural structures arising from Hebbian-like plasticity and local learning rules — inspiring the biologically-driven component of SEAL-BDH.
----
-
-## ⚖️ License
-
-This project is licensed under the **Apache License 2.0** — see the [LICENSE](./LICENSE) file for full details.
-It also includes a [NOTICE](./NOTICE) file documenting version, authorship, and intended use.
-
-```
-Copyright 2025 Sriram Dayal
-Licensed under the Apache License, Version 2.0
-```
+**[3] SEAL-BDH Hybrid Architecture (This Work)**
+Sriram Dayal
+*Independent Research*
+GitHub: https://github.com/[username]/SEAL-BDH
+Version 1.0, 2025
 
 ---
 
-## 🧾 Citation
-
-If you reference this project in publications, presentations, or derivative research:
-
+**Citation Notes:**
+- *Indicates equal contribution or corresponding author
+- All citations verified against official arXiv PDFs
+- This work builds upon [1] and [2] but is not affiliated with 
+  their institutions
+```bibtex
+@misc{dayal2025sealbdh,
+  title={SEAL-BDH Hybrid Architecture Simulation: A Theoretical 
+         Framework for Synergistic Adaptive Learning},
+  author={Dayal, Sriram},
+  year={2025},
+  howpublished={GitHub repository},
+  url={https://github.com/Sriramdayal/SEAL-BDH},
+  note={Version alphaV1.sim1.0  Simulation combining SEAL (Zweiger et al., 2025) 
+        with BDH (Kosowski et al., 2025)},
+  license={Apache-2.0}
+}
 ```
-Sriram Dayal (2025).
-SEAL–BDH Hybrid Architecture Simulation:
-Synergistic Emergent Adaptive Learning Framework.
-Version 1.0. Available at: https://github.com/Sriramdayal/SEAL-BDH
-```
-
 ---
 
 ## 💡 Author

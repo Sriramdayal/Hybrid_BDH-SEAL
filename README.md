@@ -150,12 +150,6 @@ Zuzanna Stamirowska, Michał Bartoszkiewicz
 arXiv:2509.26507v1 [cs.NE], September 2025
 https://arxiv.org/abs/2509.26507
 
-**[3] SEAL-BDH Hybrid Architecture (This Work)**
-Sriram Dayal
-*Independent Research*
-GitHub: https://github.com/[username]/SEAL-BDH
-Version 1.0, 2025
-
 ---
 
 **Citation Notes:**

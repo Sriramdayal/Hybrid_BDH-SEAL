@@ -151,12 +151,7 @@ arXiv:2509.26507v1 [cs.NE], September 2025
 https://arxiv.org/abs/2509.26507
 
 ---
-
-**Citation Notes:**
-- *Indicates equal contribution or corresponding author
-- All citations verified against official arXiv PDFs
-- This work builds upon [1] and [2] but is not affiliated with 
-  their institutions
+**Citation
 ```bibtex
 @misc{dayal2025sealbdh,
   title={SEAL-BDH Hybrid Architecture Simulation: A Theoretical 

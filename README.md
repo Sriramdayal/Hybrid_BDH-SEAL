@@ -62,7 +62,7 @@ This project models the *synergy between reinforcement-driven adaptation (SEAL)*
 
 * **Iterations:** 60 (conceptual cycles)
 * **Neurons:** 32,768 (graph nodes)
-* **Active fraction:** 20–27%
+* **Active fraction:** 5%–27%
 * **Learning:** Reinforcement-guided Hebbian adaptation
 * **Metrics observed:**
 
